@@ -1,0 +1,220 @@
+head:
+  title: "Ali Fradi's Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Ali Fradi (Frady)."
+  subtitle: "Data Scientist and industrial engineer"
+  description: "Ali is an industrial engineer with a huge affinity to data science and applied mathematics. Ali worked as a data scientist for companies with different fields of activities such as agricultre and finance. Ali touches to different context of applied statistics and mathematics to build tools that help businesses to appreciate and oversee what is behind the data."
+  image:
+    x: "img/showcase/NLPaxe.gif"
+    _2x: "img/showcase/NLPaxe.gif"
+  imageMobile:
+    x: "img/showcase/NLPaxe.gif"
+    _2x: "img/showcase/NLPaxe.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Ali"
+    URL: "mailto:alifradi7@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/ali-frady/"
+
+    - icon: "github"
+      URL: "https://github.com/alifradi"
+
+    - icon: "twitter"
+      URL: "https://twitter.com"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/alifradi7/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/alifrady7/"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement.
+    </p>
+    <p class="lead">
+    I focus on solving industrial problems through optimization and data science techniques. My major centers of knowledge are <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning </b>.
+    I enjoy stalking scientific articles and reproducing results that may help industries to boost its performance. I am at the very early stage of my trip but I am considering to build an experience that strengthens links between those major centers and to exploit them to enhance my visibility to respond for industrial challenges. 
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/ali-frady/"
+  image:
+    x: "img/who-am-i/alim.PNG"
+    _2x: "img/who-am-i/alim.PNG"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "More than 2 years working with companies in different fields of activities. I contribute to R&D, developing new products in direct link to data science to help teammates and business increase performance and offer better alternatives for their clients."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/ali-frady/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "/cv/Ali_Fradi_English.pdf"
+
+  items:
+    - title: "R&D Data scientist"
+      company: "<a href='https://www.axefinance.com/'>axefinance</a>"
+      duration: "Feb 2020 - Apr 2021"
+
+    - title: "Data analystics scientist"
+      company: "<a href='https://www.cropscience.bayer.com/'> Monsanto</a>"
+      duration: "Apr 2019 - Oct 2019"
+
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Montreal: <a href='https://www.polymtl.ca/'>Polytechnic School</a>"
+      year: "2021-"
+      degree: "Master of industrial engineering and applied mathematics"
+
+    - university: "University of El Manar: National School of Engineers in Tunis (<a href='http://www.enit.rnu.tn/fr/formation/genie_industriel.php'>ENIT</a>)"
+      year: "2016-2019"
+      degree: "Industrial Engineering"
+      
+    - university: "University of El Manar: <a href='http://www.ipeiem.rnu.tn/'>IPEIEM</a>"
+      year: "2013-2016"
+      degree: "Intensive preparatory scientific courses for engineering studies"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Automated ANOVA analysis"
+      description: "This application automates the analysis of the effect and interaction between defined factors on the qualities of olive oil through statistical tests and ANOVA. Trial data is available <a href = 'https://www.dropbox.com/s/64j31i9jk7w87vf/data_OO.csv?dl=0'>here</a>"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://ali-frady.shinyapps.io/ANOVA-Shiny-application-master/"
+      image:
+        x: "img/works/anova.gif"
+        _2x: "img/works/anova.gif"
+      is_even: true
+
+    - title: "Double/Triple Q-learning algorithms implementation on different Reinforcement learning algorithms"
+      description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-leaning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind was elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Read paper"
+        URL: "https://drive.google.com/file/d/1q4msjYPeo9pMAbNPlZqfTGKd84c9aeQx/view?usp=sharing"
+      image:
+        x: "img/works/Qlearnings.PNG"
+        _2x: "img/works/Qlearnings.PNG"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+  
+    - name: "Kamylla Leandro"
+      position: "Data Science & Analytics"
+      content: "Ali is an excellent professional, I was able to assist him during his internship at Monsanto legacy/ Bayer. He is very proactive and committed to self-development, is always looking to be collaborative in projects and has a very expressive Statistical/ Programming background. It was a pleasure working with you Ali!"
+      image:
+        x: "img/testimonials/kamylla.png"
+        _2x: "img/testimonials/kamylla.png"
+        
+    - name: "Agustin Fonseca"
+      position: "Head of EMEA Row Crop Production Research at Bayer Crop Science"
+      content: "Talented, technically solid and very driven Data Analytics Scientist. Ali joined my team in France to work on his graduation Internship. His inquisitive nature and strong ability to learn allowed him to quickly understand the basis principles of a new domain for him, agriculture, and effectively apply his data science knowledge to work on specific business problems. He demonstrated solid Project Management skill, delivering good-lasting value to the team and committing to timelines. His optimistic nature and always positive attitude made it enjoyable for the team to work with him. Ali will be a great asset to any team looking for a solid Data Analytics' Scientist."
+      image:
+        x: "img/testimonials/agustin.png"
+        _2x: "img/testimonials/agustin.png"
+
+    
+
+# contact
+contact:
+  enable: true
+  title: "Contact Ali"
+    
+  image:
+    x: "img/who-am-i/ali.PNG"
+    _2x: "img/who-am-i/ali.PNG"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:alifradi7@gmail.com'
+    
+  phone:
+    title: "Phone Number"
+    number: "+1438-493-3907"
+  email:
+    title: "Email"
+    email: '<a href="mailto:alifradi7@gmail.com">alifradi7@gmail.com</a>'
+  address:
+    title: "Address"
+    address: "Cote des neiges, Montreal, Quebec, Canada"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
