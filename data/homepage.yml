@@ -151,7 +151,7 @@ client_and_work:
         _2x: "img/works/anova.gif"
       is_even: true
 
-    - title: "Double/Triple Q-learning algorithms implementation on different Reinforcement learning algorithms"
+    - title: "Double/Triple Q-learning algorithms implementation on different Reinforcement learning environments."
       description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-leaning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind was elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
       button:
         icon: "icon-arrow-right"
