@@ -141,7 +141,7 @@ client_and_work:
 
   works:
   
-    - title: "MILP models for modular houses projects planning for MECART"
+    - title: "MILP models for modular houses projects planning for <a href='https://mecart.com/'>MECART</a>"
       description: "Development of a project scheduling model under uncertainties and constraints of 4.0 industry.<br>Developed a linear program minimizing delays and completion times. <br>The model includes preemptive tasks of multi-projects, overlapping tasks, and limitation of number of preemptions per task.<br>Implementation of model on cplex and testing of different formulations to interprete relaxation and objective functions impact on the model behavior."
       button:
         icon: "icon-arrow-right"
