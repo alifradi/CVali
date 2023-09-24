@@ -4,7 +4,7 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Ali Fradi (Frady)."
+  title: "Hello, I’m Ali Fradi."
   subtitle: "Industrial engineer"
   description: "Ali is an industrial engineer with a huge affinity to data science and applied mathematics. Ali worked as a data scientist for companies with different fields of activities such as agriculture and finance. Ali touches to different contexts of applied statistics and mathematics to build tools that help businesses to appreciate and oversee what is behind the data."
   image:
@@ -151,6 +151,17 @@ client_and_work:
         _2x: "img/works/anova.gif"
       is_even: true
 
+    - title: "Double/Triple Q-learning algorithms implementation on different Reinforcement learning environments."
+      description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-learning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind were elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Read paper"
+        URL: "https://drive.google.com/file/d/1q4msjYPeo9pMAbNPlZqfTGKd84c9aeQx/view?usp=sharing"
+      image:
+        x: "img/works/Qlearnings.PNG"
+        _2x: "img/works/Qlearnings.PNG"
+      is_even: false
+    
     - title: "Double/Triple Q-learning algorithms implementation on different Reinforcement learning environments."
       description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-learning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind were elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
       button:
