@@ -36,7 +36,7 @@ showcase:
       URL: "https://www.instagram.com/alifradi7/"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/alifrady7/"
+      URL: "https://www.facebook.com/profile.php?id=100092500143083"
 
 
 # about
@@ -140,6 +140,12 @@ client_and_work:
       alt: "Ztos"
 
   works:
+     - title: "MILP Model for modular building projects plannification for <a href='https://mecart.com/'>MECART </a>"
+      description: "Development of a project scheduling model under uncertainties and constraints of 4.0 industry.<br>Developed a linear program minimizing delays and completion times.<br>The model includes preemptive tasks of multi-projects, overlapping tasks, and limitation of number of preemptions per task.<br>Implementation of model on cplex and testing of different formulations to interprete relaxation and objective functions impact on the model behavior."
+      image:
+        x: "img/works/house.PNG"
+        _2x: "img/works/house.PNG"
+      is_even: true
     - title: "Automated ANOVA analysis"
       description: "This application automates the analysis of the effect and interaction between defined factors on the qualities of olive oil through statistical tests and ANOVA. Trial data is available <a href = 'https://www.dropbox.com/s/64j31i9jk7w87vf/data_OO.csv?dl=0'>here</a>"
       button:
