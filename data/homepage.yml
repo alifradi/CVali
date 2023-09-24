@@ -56,8 +56,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/ali-frady/"
   image:
-    x: "img/who-am-i/alim.PNG"
-    _2x: "img/who-am-i/alim.PNG"
+    x: "img/who-am-i/alim.jpg"
+    _2x: "img/who-am-i/alim.jpg"
 
 # experience
 experience:
@@ -140,6 +140,17 @@ client_and_work:
       alt: "Ztos"
 
   works:
+      - title: "MILP models for modular house projects planning for MECART"
+      description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-learning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind were elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Read paper"
+        URL: "https://drive.google.com/file/d/1q4msjYPeo9pMAbNPlZqfTGKd84c9aeQx/view?usp=sharing"
+      image:
+        x: "img/works/Qlearnings.PNG"
+        _2x: "img/works/Qlearnings.PNG"
+      is_even: false
+      
     - title: "Automated ANOVA analysis"
       description: "This application automates the analysis of the effect and interaction between defined factors on the qualities of olive oil through statistical tests and ANOVA. Trial data is available <a href = 'https://www.dropbox.com/s/64j31i9jk7w87vf/data_OO.csv?dl=0'>here</a>"
       button:
@@ -162,16 +173,7 @@ client_and_work:
         _2x: "img/works/Qlearnings.PNG"
       is_even: false
     
-    - title: "Double/Triple Q-learning algorithms implementation on different Reinforcement learning environments."
-      description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-learning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind were elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Read paper"
-        URL: "https://drive.google.com/file/d/1q4msjYPeo9pMAbNPlZqfTGKd84c9aeQx/view?usp=sharing"
-      image:
-        x: "img/works/Qlearnings.PNG"
-        _2x: "img/works/Qlearnings.PNG"
-      is_even: false
+
 
     
 
