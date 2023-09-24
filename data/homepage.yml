@@ -141,8 +141,8 @@ client_and_work:
 
   works:
   
-    - title: "MLP"
-      description: "This paper is a reproduction and analysis report for double Q-learning algorithm in which we consider implementing Q-learning algorithm variants on different reinforcement learning environment to challenge its performance and conclude about our contribution. This paper and the work behind were elaborated in collaboration with <a href='https://www.linkedin.com/in/ghofrane-khedhiri-a40243107/'>Ghofrane KHEDHIRI</a> and <a href='#'>Joshua AMELIA</a> during the class of <a href='https://chandar-lab.github.io/INF8953DE/schedule.html'>INF8953DE</a>"
+    - title: "MILP models for modular houses projects planning for MECART"
+      description: "Development of a project scheduling model under uncertainties and constraints of 4.0 industry.<br>Developed a linear program minimizing delays and completion times. <br>The model includes preemptive tasks of multi-projects, overlapping tasks, and limitation of number of preemptions per task.<br>Implementation of model on cplex and testing of different formulations to interprete relaxation and objective functions impact on the model behavior."
       button:
         icon: "icon-arrow-right"
         btnText: "Read paper"
