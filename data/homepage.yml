@@ -5,8 +5,8 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Ali Fradi (Frady)."
-  subtitle: "Data Scientist and industrial engineer"
-  description: "Ali is an industrial engineer with a huge affinity to data science and applied mathematics. Ali worked as a data scientist for companies with different fields of activities such as agriculture and finance. Ali touches to different contexts of applied statistics and mathematics to build tools that help businesses to appreciate and oversee what is behind the data."
+  subtitle: "Industrial engineer"
+  description: "Ali is an industrial engineer who loves data, statistics and applied mathematics. He has worked as a data scientist for various industries, such as agriculture and finance. He uses statistical and mathematical methods to create tools that help businesses solve their problems."
   image:
     x: "img/showcase/NLPaxe.gif"
     _2x: "img/showcase/NLPaxe.gif"
@@ -146,6 +146,7 @@ client_and_work:
         x: "img/works/house.PNG"
         _2x: "img/works/house.PNG"
       is_even: true
+      
     - title: "Automated ANOVA analysis"
       description: "This application automates the analysis of the effect and interaction between defined factors on the qualities of olive oil through statistical tests and ANOVA. Trial data is available <a href = 'https://www.dropbox.com/s/64j31i9jk7w87vf/data_OO.csv?dl=0'>here</a>"
       button:
