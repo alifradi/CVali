@@ -44,7 +44,7 @@ about:
   enable: true
   title: "Who am I?"
   content: 
-    <p class="lead" >I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement. </p><p class="lead">my job is about solving industrial problems with math and data. Ali has a knack for mathematical modeling and data analysis. I know how make use of <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning</b> to solve real-world challenges. I like to read scientific papers and replicate results that can help industries improve their performances. I am still learning and I aim to build an experience that connects and leverages my knowledge areas and to increase my ability to tackle industrial problems.</p>
+    <p class="lead" >I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement. </p><p class="lead">My job is about solving industrial problems with math and data. Ali has a knack for mathematical modeling and data analysis. I know how make use of <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning</b> to solve real-world challenges. I like to read scientific papers and replicate results that can help industries improve their performances. I am still learning and I aim to build an experience that connects and leverages my knowledge areas and to increase my ability to tackle industrial problems.</p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
