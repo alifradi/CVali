@@ -4,9 +4,9 @@ head:
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Ali Fradi."
+  title: "Hello, I’m Ali."
   subtitle: "Industrial engineer"
-  description: "Ali is an industrial engineer with a huge affinity to data science and applied mathematics. Ali worked as a data scientist for companies with different fields of activities such as agriculture and finance. Ali touches to different contexts of applied statistics and mathematics to build tools that help businesses to appreciate and oversee what is behind the data."
+  description: "Meet Ali, the engineer who loves data and math. Ali has a background in industrial engineering, but he is passionate about data science and applied mathematics. He has worked as a data scientist for various companies in different sectors, such as agriculture and finance. He uses his skills in statistics and mathematics to create tools that help businesses solve their problems and make better decisions."
   image:
     x: "img/showcase/NLPaxe.gif"
     _2x: "img/showcase/NLPaxe.gif"
@@ -30,7 +30,7 @@ showcase:
       URL: "https://twitter.com"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com"
+      URL: "https://www.youtube.com/channel/UCk0JehgPiejxLvt0tBUcZQg"
 
     - icon: "instagram"
       URL: "https://www.instagram.com/alifradi7/"
@@ -45,11 +45,10 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement.
+    I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement. 
     </p>
     <p class="lead">
-    I focus on solving industrial problems through optimization and data science techniques. My major centers of knowledge are <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning </b>.
-    I enjoy stalking scientific articles and reproducing results that may help industries to boost its performance. I am at the very early stage of my trip but I am considering to build an experience that strengthens links between those major centers and to exploit them to enhance my visibility to respond for industrial challenges. 
+    my mission : solving industrial problems with math and data. Ali has a knack for mathematical modeling and data analysis. I know how make use of <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning</b> to solve real-world challenges. I like to read scientific papers and replicate results that can help industries improve their performances. I am still learning and I aim to build an experience that connects and leverages my knowledge areas and to increase my ability to tackle industrial problems.
     </p>
   button:
     icon: "icon-smile-fill"
@@ -90,15 +89,15 @@ education:
   items:
     - university: "University of Montreal: <a href='https://www.polymtl.ca/'>Polytechnic School</a>"
       year: "2021-"
-      degree: "Master of industrial engineering and applied mathematics"
+      degree: "Master of industrial engineering and applied mathematics (3.24/4 GPA)"
 
     - university: "University of El Manar: National School of Engineers in Tunis (<a href='http://www.enit.rnu.tn/fr/formation/genie_industriel.php'>ENIT</a>)"
       year: "2016-2019"
-      degree: "Industrial Engineering"
+      degree: "Industrial Engineering (13.4/20 as a major mark)"
       
     - university: "University of El Manar: <a href='http://www.ipeiem.rnu.tn/'>IPEIEM</a>"
       year: "2013-2016"
-      degree: "Intensive preparatory scientific courses for engineering studies"
+      degree: "Intensive preparatory scientific courses for engineering studies (ranked 267 and 25 out of 1400 candidates for the competitive exams"
 
 
 
