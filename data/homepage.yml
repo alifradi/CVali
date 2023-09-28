@@ -44,7 +44,7 @@ about:
   enable: true
   title: "Who am I?"
   content: 
-    <p class="lead" >I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement. </p><p class="lead">My job is about solving industrial problems with math and data. Ali has a knack for mathematical modeling and data analysis. I know how make use of <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning</b> to solve real-world challenges. I like to read scientific papers and replicate results that can help industries improve their performances. I am still learning and I aim to build an experience that connects and leverages my knowledge areas and to increase my ability to tackle industrial problems.</p>
+    <p class="lead" >I am a big fan of R programming at first. Deploying my models within shiny web applications is a moment of euphoria and excitement. </p><p class="lead">My job is about solving industrial problems with math and data. I have a knack for mathematical modeling and data analysis. I know how make use of <b>information systems, operational research, stochastic optimization, reinforcement learning and applied machine learning</b> to solve real-world challenges. I like to read scientific papers and replicate results that can help industries improve their performances. I am still learning and I aim to build an experience that connects and leverages my knowledge areas and to increase my ability to tackle industrial problems.</p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
@@ -84,7 +84,7 @@ education:
   items:
     - university: "University of Montreal: <a href='https://www.polymtl.ca/'>Polytechnic School</a>"
       year: "2021-"
-      degree: "Master of industrial engineering and applied mathematics (3.24/4 GPA)"
+      degree: "Master of industrial engineering and applied mathematics (3.25/4 GPA)"
 
     - university: "University of El Manar: National School of Engineers in Tunis (<a href='http://www.enit.rnu.tn/fr/formation/genie_industriel.php'>ENIT</a>)"
       year: "2016-2019"
