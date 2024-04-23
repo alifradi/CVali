@@ -65,7 +65,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "/cv/Ali_Fradi_English.pdf"
+    URL: "/cv/CV23042024.pdf"
 
   items:
     - title: "R&D Data scientist"
