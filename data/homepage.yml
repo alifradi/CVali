@@ -139,7 +139,7 @@ client_and_work:
       description: "Development of a project scheduling model under uncertainties and constraints of 4.0 industry.<br>Developed a linear program minimizing delays and completion times. <br>The model includes preemptive tasks of multi-projects, overlapping tasks, and limitation of number of preemptions per task.<br>Implementation of model on cplex and testing of different formulations to interprete relaxation and objective functions impact on the model behavior."
       button:
         icon: "icon-arrow-right"
-        btnText: "Paper is under review"
+        btnText: "Paper is under review :-)"
         URL: "#"
       image:
         x: "img/works/house.PNG"
