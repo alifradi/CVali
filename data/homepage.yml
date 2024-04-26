@@ -171,10 +171,10 @@ client_and_work:
       
      - title: "Multi-agents simulation of Emergency Unit working system with Anylogic"
       description: 'This project presents a comprehensive simulation of a surgical unit’s operations, considering it as a complex system in a dynamic environment. It models the behavior of the unit based on an agent, taking into account various stochastic constraints. Performance indicators are defined to measure the impact of decisions on the system’s efficiency and its adaptability to changes. The project also includes a series of experiments and their interpretations. The ultimate goal is to enhance patient care while ensuring the system’s sustainability by achieving economic objectives. This project is documented in a report titled “Rapport final du projet des systèmes industriels distribués”'
-      #button:
-      #  icon: "icon-arrow-right"
-      #  btnText: "Paper is under review"
-      #  URL: "#"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Paper is under review"
+        URL: "#"
       image:
         x: "img/works/SMA.PNG"
         _2x: "img/works/SMA.PNG"
