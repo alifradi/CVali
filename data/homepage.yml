@@ -176,8 +176,8 @@ client_and_work:
         btnText: "Paper is under review"
         URL: "#"
       image:
-        x: "img/works/SMA.PNG"
-        _2x: "img/works/SMA.PNG"
+        x: "img/works/SMA.GIF"
+        _2x: "img/works/SMA.GIF"
       is_even: false
 
 
